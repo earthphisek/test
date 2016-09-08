@@ -1,5 +1,5 @@
 print'Hello World!'
 
-print 'something nut'
+print 'something'
 print '...'
 
